@@ -1,6 +1,6 @@
 # 🚀 Multi Chatbot
 
-Hey there, tech adventurer! Welcome to the Multi API Next.js Chatbot! 🤖✨ This isn't your average chatbot - it's a powerhouse that plays nice with multiple AI providers, all wrapped up in a sleek Next.js package. Ready to revolutionize your chat experience? Let's dive in!
+Hey there, tech adventurer! Welcome to the Multi Chatbot! 🤖✨ This isn't your average chatbot - it's a powerhouse that plays nice with multiple AI providers, all wrapped up in a sleek Next.js package. Ready to revolutionize your chat experience? Let's dive in!
 
 ## ✨ What Makes This Special?
 
