@@ -1,4 +1,4 @@
-# Chatbot Boilerplate
+# Multi Chatbot
 
 A Next.js chatbot supporting multiple AI providers.
 
@@ -27,8 +27,8 @@ A Next.js chatbot supporting multiple AI providers.
 
 1.  **Clone Repository:**
     ```bash
-    git clone [https://github.com/abearfight/Multi-Api-Next-JS-Chatbot.git](https://github.com/abearfight/Multi-Api-Next-JS-Chatbot.git)
-    cd Multi-Api-Next-JS-Chatbot
+    git clone [https://github.com/abearfight/chatbot-boilerplate.git](https://github.com/abearfight/chatbot-boilerplate.git)
+    cd chatbot-boilerplate
     ```
 
 2.  **Configure Environment:**
@@ -57,4 +57,4 @@ Contributions, issues, and feature requests are welcome.
 MIT Licensed.
 
 ---
-Repository: [https://github.com/abearfight/Multi-Api-Next-JS-Chatbot.git](https://github.com/abearfight/Multi-Api-Next-JS-Chatbot.git)
+Repository: [https://github.com/abearfight/chatbot-boilerplate.git](https://github.com/abearfight/chatbot-boilerplate.git)
