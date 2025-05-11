@@ -1,4 +1,4 @@
-# Multi Chatbot
+# Chatbot Boilerplate
 
 A Next.js chatbot supporting multiple AI providers.
 
